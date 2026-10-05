@@ -1,0 +1,29 @@
+[OK] int: конструктор и пустая выборка
+[OK] int: Resize и получение размеров
+[OK] int: индексирование и GetPointer
+[OK] int: SetValue и GetMax
+[OK] int: IsEqualSize и CheckSquare
+[OK] int: конструктор копирования и присваивание
+[OK] int: операции с числом
+[OK] int: операции с двумя выборками
+[OK] int: несовместимые размеры и пустая арифметика
+[OK] int: Save и Load в потоке
+[OK] int: ошибки Save и Load
+[OK] int: сохранение и загрузка файла
+[OK] double: конструктор и пустая выборка
+[OK] double: Resize и получение размеров
+[OK] double: индексирование и GetPointer
+[OK] double: SetValue и GetMax
+[OK] double: IsEqualSize и CheckSquare
+[OK] double: конструктор копирования и присваивание
+[OK] double: операции с числом
+[OK] double: операции с двумя выборками
+[OK] double: несовместимые размеры и пустая арифметика
+[OK] double: Save и Load в потоке
+[OK] double: ошибки Save и Load
+[OK] double: сохранение и загрузка файла
+[OK] double: точность вещественных значений при сохранении
+[OK] virtual: уничтожение наследника через указатель базового класса
+[OK] complex<double>: создание и арифметика шаблонной выборки
+
+Успешно: 27, ошибок: 0
